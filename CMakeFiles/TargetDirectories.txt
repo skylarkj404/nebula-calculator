@@ -1,0 +1,8 @@
+D:/tester/CMakeFiles/calculator.dir
+D:/tester/CMakeFiles/edit_cache.dir
+D:/tester/CMakeFiles/rebuild_cache.dir
+D:/tester/CMakeFiles/list_install_components.dir
+D:/tester/CMakeFiles/install.dir
+D:/tester/CMakeFiles/install/local.dir
+D:/tester/CMakeFiles/calculator_autogen_timestamp_deps.dir
+D:/tester/CMakeFiles/calculator_autogen.dir
